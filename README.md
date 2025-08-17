@@ -57,6 +57,9 @@ Play directly in your console with **arrow keys** and watch the board update aft
 
 ## 🎥 Demo:
 
+<img width="500" height="300" alt="Screenshot 2025-08-17 124639" src="https://github.com/user-attachments/assets/69330ef4-a442-4f9a-af93-a831991ed9c9" />
+<img width="500" height="300" alt="Screenshot 2025-08-17 124654" src="https://github.com/user-attachments/assets/862d6bb9-c679-4d35-9bc0-a6b7b6783fcd" />
+
 ---
 
 ## Author
